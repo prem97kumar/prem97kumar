@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @prem97kumar
 - 👀 I’m interested in Data science.
-- 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently pursuing PG Data Science 
+- 💞️ I’m looking to collaborate on healthcare department
+- 📫 How to reach me premeswar251@gmail.com
 
 <!---
 prem97kumar/prem97kumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
