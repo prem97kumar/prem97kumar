@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prem97kumar
 - 👀 I’m interested in Data science.
 - 🌱 I’m currently pursuing PG Data Science 
-- 💞️ I’m looking to collaborate on healthcare department
+- 💞️ I’m looking to collaborate on healthcare Domain
 - 📫 How to reach me premeswar251@gmail.com
 
 <!---
