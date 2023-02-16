@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prem97kumar
 - 👀 I’m interested in Data science.
-- 🌱 I’m currently pursuing PG Data Science 
-- 💞️ I’m looking to collaborate on healthcare Domain
+- 🌱 I’m currently  learning NLP,Deep Learning
+- 💞️ I’m looking to for job opportunities.
 - 📫 How to reach me premeswar251@gmail.com
 
 <!---
